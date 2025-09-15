@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 TEMP_DIR="upgrade-example"
-JAVA_8="8.0.452-librca"
-JAVA_11="11.0.27-librca"
-JAVA_17="17.0.15-librca"
-JAVA_21="21.0.7-librca"
-JAVA_24="24.0.1-librca"
+JAVA_8="8.0.462-librca"
+JAVA_11="11.0.28-librca"
+JAVA_17="17.0.16-librca"
+JAVA_21="21.0.8-librca"
+JAVA_24="24.0.2-librca"
 JAR_NAME="spring-petclinic-2.7.3-spring-boot.jar"
 
 declare -A matrix
